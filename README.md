@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">  
-  <img width="512px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=mdkaif2782&layout=default&hide_progress=true&langs_count=15&theme=transparent&hide_border=true&hide=other&custom_title=Languages"/>
+  <img width="512px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkaif2782&theme=transparent&hide_border=true"/>
 </p>
