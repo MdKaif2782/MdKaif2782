@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MdKaif2782
-- 👀 I’m interested in ...Software devekopment
-- 🌱 I’m currently learning ...JavaScript (NodeJS)
-- 💞️ I’m looking to collaborate on ...not decided yet
-- 📫 How to reach me ...mail me at "mibnzaman02@gmail.com" or Discord: Md_kaif#3392
+<p align="center">  
+  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=mdkaif2782&theme=transparent&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-<!---
-MdKaif2782/MdKaif2782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">  
+  <img width="512px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@mdkaif2782&layout=default&hide_progress=true&langs_count=15&theme=transparent&hide_border=true&hide=other&custom_title=Languages"/>
+</p>
