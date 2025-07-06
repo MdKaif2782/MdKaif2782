@@ -12,7 +12,7 @@
 <div id="header" align="center">
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/mdkaif2782">
+    <a href="https://www.linkedin.com/in/md-kaif-ibn-zaman-7b1803240">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/mdkaif.ibnzaman.1">
